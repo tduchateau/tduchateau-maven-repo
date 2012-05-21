@@ -18,11 +18,11 @@
    <distributionManagement>
       <repository>
          <id>tduchateau-release-maven-repo</id>
-         <url>https://github.com/tduchateau/tduchateau-maven-repo/tree/master/releases</url>
+         <url>https://raw.github.com/tduchateau/tduchateau-maven-repo/tree/master/releases</url>
       </repository>
       <snapshotRepository>
          <id>tduchateau-snapshot-maven-repo</id>
-         <url>https://github.com/tduchateau/tduchateau-maven-repo/tree/master/snapshots</url>
+         <url>https://raw.github.com/tduchateau/tduchateau-maven-repo/tree/master/snapshots</url>
       </snapshotRepository>
    </distributionManagement>
 </project>
