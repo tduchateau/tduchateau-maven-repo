@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <modelVersion>4.0.0</modelVersion>
@@ -15,14 +14,14 @@
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    </properties>
 
-   <distributionManagement>
+   <!--distributionManagement>
       <repository>
          <id>tduchateau-release-maven-repo</id>
-         <url>https://raw.github.com/tduchateau/tduchateau-maven-repo/tree/master/releases</url>
+         <url>https://github.com/tduchateau/tduchateau-maven-repo/tree/master/releases</url>
       </repository>
       <snapshotRepository>
          <id>tduchateau-snapshot-maven-repo</id>
-         <url>https://raw.github.com/tduchateau/tduchateau-maven-repo/tree/master/snapshots</url>
+         <url>https://github.com/tduchateau/tduchateau-maven-repo/tree/master/snapshots</url>
       </snapshotRepository>
-   </distributionManagement>
+   </distributionManagement-->
 </project>
